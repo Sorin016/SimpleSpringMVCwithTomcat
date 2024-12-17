@@ -22,8 +22,4 @@ public class HelloControler {
     public String sayHello() {
         return "hw";
     }
-
-
-
-
 }
